@@ -1,0 +1,12 @@
+html
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Fotoğraf Galerim</title>
+  </head>
+  <body>
+    <h1>Hoş Geldiniz!</h1>
+    <p>İşte favori fotoğrafım:</p>
+    <img src="https://i.imgur.com/1KegWPz.jpg" width="300">
+  </body>
+</html>
